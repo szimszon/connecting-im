@@ -4,7 +4,7 @@ In todays world everybody say we should work together share knowledge but at the
 
 # What do you think about the following
 
-Could we have a global namespace for IM just like we have for e-mail? What could be a drawback? I mean we need to deal with SPAM... :-o
+Could we have a **global namespace** for IM just like we have for e-mail? What could be a drawback? I mean we need to deal with SPAM... :-o
 If we would have a globaly uniq account name we could have a minimal protocol for inter-system communication for at least
  * direct messaging
  * group chat
@@ -12,7 +12,7 @@ If we would have a globaly uniq account name we could have a minimal protocol fo
  * WebRTC (signaling)
  * optionally end-to-end encryption
  
-So instead we try to connect to other systems there should be a standard (in e-mail sending we name it smtp:) for server to server communication between different systems everybody shall follow. And we won't end up with: https://xkcd.com/927/
+So instead we try to connect to other systems there should be a **standard** (in e-mail sending we name it smtp:) **for server to server communication between different systems** everybody shall follow. And we won't end up with: https://xkcd.com/927/
 
 With this we could have good things from both worlds:
 * interconnectivity
